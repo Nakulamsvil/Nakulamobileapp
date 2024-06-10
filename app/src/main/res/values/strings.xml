@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nakulamobileapp</string>
+    <string name="home">Home</string>
+    <string name="alarm">Alarm</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="firebase">Firebase</string>
+    <string name="gmaps">GMaps</string>
+</resources>
